@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4abdfde20d604aef98d3525822f7963, type: 3}
+  m_Name: Question2
+  m_EditorClassIdentifier: 
+  Answer1: 1
+  Answer2: 2
+  Answer3: 3
+  Answer4: 4
+  Icon: {fileID: 21300000, guid: 10bb7cca4c5a7472fa424640d843590f, type: 3}
+  Question: "\u0412\u0442\u043E\u0440\u043E\u0439 \u0432\u043E\u043F\u0440\u043E\u0441?"
+  RightAnswerNumber: 2
